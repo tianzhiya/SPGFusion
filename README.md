@@ -18,6 +18,7 @@ If this work is helpful to you, please cite it as:
 @article{SPGFusion,
   title={SPGFUSION: A SEMANTIC PRIOR GUIDED INFRARED AND VISIBLE IMAGE FUSION
 NETWORK},
+author={Quanquan Xiao},
 }
 ```
 If you have any question, please email to me (1211211001@stu.xaut.edu.cn).
