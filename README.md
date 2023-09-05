@@ -1,5 +1,5 @@
 # SPGFusion
-Code of SPGFusion: a unsupervised image fusion network for multiple image fusion tasks, including multi-modal (VIS-IR) image fusion.
+Code of SPGFusion: a self-supervised image fusion network for multiple image fusion tasks, including multi-modal (VIS-IR) image fusion.
 
 ## Tips:<br>
 Due to file size issues, the training set has been removed from the code and the MSRS dataset can be downloaded here: https://github.com/Linfeng-Tang/MSRS
